@@ -18,3 +18,10 @@ python3 -m venv venv
 pip install -r requirements.txt
 ```
 
+## 03 Create a Blockchain in python in under 30 minutes
+https://www.youtube.com/watch?v=7QZWmtqJCpA&list=PLc80fs2KJTAwjfBq9ipBB1BJRlQAOnFba&index=3
+
+---
+
+Current: 8:23
+
